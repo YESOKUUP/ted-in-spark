@@ -1,8 +1,10 @@
-## Turbofan Engine Degradation Simulation Data Set, example in Dato Graphlab Create
+## 使用Dato Graphlab Create平台创建的Demo [Turbofan Engine Degradation Simulation Data Set]
 
-Presents the same predictive maintenance use case implemented using Dato's Graphlab Create Platform.  
+使用`Dato Graphlab Create`平台创建的预测结果（发动机维护计划）。
 
-The example contains precomputed results and can be viewed in Jupyter or simply in a webbrowser. 
+该式例包含预测结果，可以在`Jupyter`中查看，或直接在浏览器中查看。
 
-For running the example on your own, you will need to install Dato's Graphlab Create. 
-Instructions and trial versions are available here: https://dato.com/download/install-graphlab-create.html
+若需要运行，请先安装`Dato's Graphlab Create`。
+
+相关说明和下载： [https://dato.com/download/install-graphlab-create.html](https://dato.com/download/install-graphlab-create.html)
+
